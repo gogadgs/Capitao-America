@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+   
+
+}
+:root{
+    --cor-fundo:linear-gradient(135deg,#1818e7 30%,#f61436 50%,#f6f1f1 100%);
+    --cor-fonte:#1818e7;
+}
+::-webkit-scrollbar-thumb{
+    background:linear-gradient(180deg,rgba(255,100,255,0.5) 50% ,rgba(100,255,100,0.9) 20% , rgba(255,255,255,0.50)20%)
+}
+::-webkit-scrollbar-button{
+    background:#8b0db1;
+}
