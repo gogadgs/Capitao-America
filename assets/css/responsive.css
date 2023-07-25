@@ -32,7 +32,8 @@ main .card img{
     max-height: 50%;
 }
 main .card img:hover{
-    left: 50% !important;
+    position:absolute !important;
+   
     top: 68% !important;
    
     max-width: 54% !important;
