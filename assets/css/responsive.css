@@ -33,7 +33,7 @@ main .card img{
 }
 main .card img:hover{
     left: 50% !important;
-    top: 65% !important;
+    top: 68% !important;
    
     max-width: 54% !important;
     
@@ -53,7 +53,7 @@ main .card:hover .conteudo{
     
         opacity: 1;
         visibility: visible;
-        margin-bottom: 16% !important;
+        margin-bottom: 8% !important;
          
 }
 main .card .conteudo a{
