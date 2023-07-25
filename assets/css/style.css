@@ -90,7 +90,7 @@ main .card img{
 }
 main .card:hover img{
     left:80%;
-    height:600px;
+    height:560px;
 }
 main .card .conteudo{
     position:relative;
@@ -128,7 +128,7 @@ main .card .conteudo a{
     -ms-border-radius:10px;
     -o-border-radius:10px;
     background:#fff;
-    margin-top:12rem;
+    margin-top:10rem;
     text-decoration: none;
 }
 main .card .conteudo p {
