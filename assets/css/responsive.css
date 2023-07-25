@@ -1,8 +1,6 @@
 @media screen and (max-width:600px){
 
-    header ul {
-
-    }
+   
     main .card{
         position:relative;
         min-width:auto;
@@ -51,11 +49,11 @@ main .card:hover img{
     
     max-height: 20%;
 }
-main .card .conteudo{
+main .card:hover .conteudo{
     
         opacity: 1;
         visibility: visible;
-        
+        margin-bottom: 8% !important;
          
 }
 main .card .conteudo a{
